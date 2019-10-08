@@ -59,7 +59,9 @@ print('segunda string : {} caracteres'.format(len(teste2)))
 
 '''
 Outros metodos para manipular strings
+
 '''
+file:///Z:/IPE/IPE%20-%20Python%20-%20APS.pdf
 
 
 
